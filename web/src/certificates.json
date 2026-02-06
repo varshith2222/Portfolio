@@ -1,0 +1,6 @@
+[
+  { "id": 1, "src": "/certificates/cert1.jpg", "title": "Cloud Computing" },
+  { "id": 2, "src": "/certificates/cert2.jpg", "title": "Data Analytics" },
+  { "id": 3, "src": "/certificates/cert3.png", "title": "Python" },
+  { "id": 4, "src": "/certificates/cert4.png", "title": "SQL" }
+]
