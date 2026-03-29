@@ -2,7 +2,7 @@
 
 A stunning, interactive 3D portfolio website built with **React**, **Three.js**, and **Tailwind CSS**. This project features an immersive 3D scrolling experience, showcasing my skills, projects, and journey as a Data Analyst & Developer.
 
-🔗 **Live Demo:** [INSERT_PUBLISHED_LINK_HERE]
+🔗 **Live Demo:** https://varshith-portfolio-six.vercel.app/
 
 ---
 
