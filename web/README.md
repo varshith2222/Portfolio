@@ -1,16 +1,88 @@
-# React + Vite
+# 3D Developer Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stunning, interactive 3D portfolio website built with **React**, **Three.js**, and **Tailwind CSS**. This project features an immersive 3D scrolling experience, showcasing my skills, projects, and journey as a Data Analyst & Developer.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [INSERT_PUBLISHED_LINK_HERE]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+![Portfolio Preview](./public/varsh.jpg) 
+*(Note: You can replace this path with a screenshot of your website after taking one)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **3D Interactive Experience**: Powered by `react-three-fiber` and `drei`.
+- **Smooth Scroll Animations**: Vertical parallax scrolling effect.
+- **Dynamic Content**: Data-driven components for easy updates.
+- **Responsive Design**: Fully responsive layout optimized for all devices.
+- **Modern Styling**: Sleek UI with **Tailwind CSS**.
+- **Performance Optimized**: Fast loading with Vite.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend Framework**: React (Vite)
+- **3D Library**: Three.js, @react-three/fiber, @react-three/drei
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion (optional/if used), Native CSS animations
+- **Deployment**: Vercel / Netlify / GitHub Pages
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally on your machine.
+
+### Prerequisites
+
+- Node.js installed (v16+ recommended)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Navigate to `http://localhost:5173` to view the site.
+
+## 📂 Project Structure
+
+```
+├── public/          # Static assets (images, models, resume)
+├── src/
+│   ├── components/  # Reusable UI components
+│   ├── data.js      # Portfolio data (Projects, Skills, Contact)
+│   ├── Experience.jsx # Main 3D Scene Code
+│   ├── App.jsx      # Main Application Entry
+│   └── index.css    # Global Styles & Tailwind Directives
+├── index.html       # HTML Entry Point
+└── package.json     # Project Metadata & Dependencies
+```
+
+## 🎨 Customization
+
+You can easily update the content by modifying `src/data.js`:
+- **Personal Info**: Name, Role, Summary
+- **Projects**: Add/Remove projects
+- **Skills**: Update skill levels and colors
+- **Certifications**: Add new certificates
+- **Contact**: Update email, phone, and social links
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️ by **Varshith Reddy**

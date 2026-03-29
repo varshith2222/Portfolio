@@ -1,0 +1,17 @@
+🚀 **Excited to share my new 3D Portfolio Website!** 🌐
+
+I recently built a fully interactive 3D portfolio to showcase my journey as a **Data Analyst & Developer**. It features an immersive scrolling experience, bringing my projects and skills to life!
+
+✨ **Key Features:**
+🔹 **Interactive 3D Elements** – Built with **React**, **Three.js**, and **React Three Fiber**.
+🔹 **Immersive Scrolling** – Smooth animations and parallax effects.
+🔹 **Responsive Design** – Optimized for all devices using **Tailwind CSS**.
+🔹 **Showcase** – Highlights my projects in Python, SQL, Power BI, and Machine Learning.
+
+It was an amazing learning experience blending **Data Analytics** with **3D Web Development**. 
+
+🔗 **Check it out live here:** [INSERT_YOUR_VERCEL_LINK_HERE]
+
+I’d love to hear your feedback! Drop a comment or connect with me. 👇
+
+#WebDevelopment #ThreeJS #ReactJS #Portfolio #DataAnalyst #FrontendDeveloper #3DWeb #TechShowcase #OpenToWork
