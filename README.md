@@ -6,8 +6,6 @@ A stunning, interactive 3D portfolio website built with **React**, **Three.js**,
 
 ---
 
-![Portfolio Preview](./public/varsh.jpg) 
-*(Note: You can replace this path with a screenshot of your website after taking one)*
 
 ## ✨ Features
 
